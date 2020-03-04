@@ -1,2 +1,2 @@
 # harjoitus
-FiTech opinnot
+Kopioitu Gitlab tiedostoja
